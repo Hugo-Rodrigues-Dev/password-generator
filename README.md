@@ -26,3 +26,7 @@ Generated password: D4r!p@q9W1s#
 ---
 
 Feel free to fork and enhance this project.
+
+[![GitHub release](https://img.shields.io/github/v/release/Hugo-Rodrigues-Dev/password-generator?style=flat&label=release)](https://github.com/Hugo-Rodrigues-Dev/password-generator/releases/tag/v1.0.0)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
