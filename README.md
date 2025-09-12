@@ -90,36 +90,6 @@ UI features:
 
 This repository includes a Python-appropriate `.gitignore` to avoid committing temporary files and build artifacts.
 
-## 🖼️ Usage (GUI)
-
-```
-python gui.py
-```
-
-UI features:
-- Length selector (Spinbox + slider)
-- Checkboxes for each character category
-- Generate button to create a password
-- Read-only field for the result + Copy button
-- Status message for validations
-
-## 🧩 Structure
-
-- `password_generator.py` — generation logic
-- `main.py` — console version
-- `gui.py` — graphical version
-
-## 🗂️ Contributing / Development
-
-- Create and activate a virtual environment (see above).
-- Run the console version: `python main.py`
-- Run the GUI: `python gui.py`
-- Please keep the file structure and avoid unnecessary dependencies.
-
-## 🧽 .gitignore
-
-This repository includes a Python-appropriate `.gitignore` to avoid committing temporary files and build artifacts.
-
 ---
 
 Feel free to fork and enhance the project.
